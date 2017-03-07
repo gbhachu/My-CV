@@ -28,7 +28,7 @@ Another skill I have improved during my time in education and employment is my a
 
 Project title               | Github Repository  						 | Details		
 --------------------------- | ------------------------------ | ------------------------
-InstaClone                   | [InstaClone] (https://github.com/gbhachu/instagram-challenge)      | Instagram app using Rails framework (independant)
+YelpClone                   | [YelpClone] (https://github.com/gbhachu/yelp_clone)      | Yelp app using Rails framework (pair)
 MakersBnB 	                    | [MakersBnB] (https://github.com/gbhachu/makersbnb)                 | AirBnB clone using Ruby/Sinatra (group)
 Hive                     | [ThermostatChallenge] (https://github.com/gbhachu/thermostat)| Hive clone built with Javascript, JQuery and HTML. (pair)
 TakeAwayChallenge                    | [TakeAwayChallenge] (https://github.com/gbhachu/takeaway-challenge)     | Takeaway ordering system using Twilio (independant)
