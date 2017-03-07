@@ -30,7 +30,7 @@ Project title               | Github Repository  						 | Details
 --------------------------- | ------------------------------ | ------------------------
 InstaClone                   | [InstaClone] (https://github.com/gbhachu/instagram-challenge)      | Instagram app using Rails framework (independant)
 MakersBnB 	                    | [MakersBnB] (https://github.com/gbhachu/makersbnb)                 | AirBnB clone using Ruby/Sinatra (group)
-Hive                     | [Hive] (https://github.com/gbhachu/thermostat)| Hive clone built with Javascript, JQuery and HTML. (pair)
+Hive                     | [ThermostatChallenge] (https://github.com/gbhachu/thermostat)| Hive clone built with Javascript, JQuery and HTML. (pair)
 TakeAwayChallenge                    | [TakeAwayChallenge] (https://github.com/gbhachu/takeaway-challenge)     | Takeaway ordering system using Twilio (independant)
 
 ### <a name="education">Education</a>
