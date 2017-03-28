@@ -14,13 +14,13 @@ I pride myself on my interpersonal skills which have been honed by working in sa
 ***
 ### <a name="skills">Skills</a>
 
-####Makers Academy
+<ul>Makers Academy</ul>
 Currently I'm near the end of my 12 weeks as a Makers Academy student. It's been challenging, at times frustrating, but always enjoyable. Working on projects both alone and as part of a team has tested my ability to work under pressure, find solutions to tricky problems and take in new information on a daily basis. Due to the structure of the course I am pair programming daily, often well into the evening, as well as working on weekend challenges by myself.
 
-####Communication
+Communication
 In my previous roles I have worked with a wide range of clients, students and employees with varying ages and levels of expertise in their fields and engaging with each person to understand their strengths, weaknesses and motivations. I believe communication is key to a successful working relationship whether it's explaining a tricky technical concept to somebody, giving a presentation, asking for assistance or even just providing an update on the current status of a project I'm working on. I pride myself on my ability on to adjust my approach depending on the target audience and prevent any miscommunication from occurring.
 
-####Critical Reasoning and Problem Solving
+Critical Reasoning and Problem Solving
 Another skill I have improved during my time in education and employment is my ability to critically analyse situations and provide simple solutions to problems. Working as a employability trainer, I regularly had to think on my feet and ensure that the materials were tailored to their learning styles to ensure they progressed their knowledge. While working as a personal trainer, I was constantly assessing clients responsiveness to training and provide positive feedback and client engagement from both novice and professional athletes.
 ***
 
