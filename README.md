@@ -16,7 +16,7 @@ I pride myself on my interpersonal skills which have been honed by working in sa
 
 **Makers Academy**
 
-Currently I'm near the end of my 12 weeks as a Makers Academy student. It's been challenging, at times frustrating, but always enjoyable. Working on projects both alone and as part of a team has tested my ability to work under pressure, find solutions to tricky problems and take in new information on a daily basis. Due to the structure of the course I am pair programming daily, often well into the evening, as well as working on weekend challenges by myself.
+I thoroughly enjoyed my 12 weeks as a Makers Academy student. It's been challenging, at times frustrating, but always enjoyable. Working on projects both alone and as part of a team has tested my ability to work under pressure, find solutions to tricky problems and take in new information on a daily basis. Due to the structure of the course I am pair programming daily, often well into the evening, as well as working on weekend challenges by myself.
 
 **Communication**
 
@@ -61,6 +61,7 @@ Highers
 - Modern Studies - A
 
 **Other Qualifications**
+- Makers Academy Remote Graduate (March 2017)
 - PTLLS Level 4 Trainer/Assessor (up to NVQ level 4)
 - REPs Level 4 Personal Trainer with GP exercise referall certifacation
 
@@ -70,6 +71,11 @@ Highers
 
 
 ### <a name="employment">Employment</a>
+
+**SME Professionals** <br>
+Software Developer (Internship) <br>
+(June 2017 - Present) <br>
+
 
 **Remploy Learning Centre** <br>
 Consultant Trainer - Youth training <br>
