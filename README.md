@@ -1,17 +1,11 @@
 # Gurminder Bhachu
 
-[About Me](#about_me)  |  [Skills](#skills)  |  [Projects](#projects) |  [Education](#education)  |  [Employment](#employment) | [Interests](#interests)
-***
-
-
-### <a name="about_me">About Me</a>
-
-
 I am an enthusiastic, outgoing and ambitious full stack developer looking forward to starting my career in the tech industry. Excited by technology and computers and enquistive about how they worked from an early age, I decided it was about time I learnt how to code. I started my journey with online codeacademy tutorials before deciding to step it up a notch by applying to one of Europe's leading development bootcamps, Makers Academy.
 
 I pride myself on my interpersonal skills which have been honed by working in sales, fitness and training environments, and also my ability to adapt and learn new skills especially when pushed outside my comfort zone.
 
-***
+[Skills](#skills)  |  [Projects](#projects) |  [Education](#education)  |  [Employment](#employment) | [Interests](#interests)
+
 ### <a name="skills">Skills</a>
 
 **Makers Academy**
