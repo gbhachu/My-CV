@@ -74,36 +74,38 @@ Certified Solutions Architect - Professional (SAP-C02) - Completion date – Mar
 
 ### <a name="employment">Employment</a>
 
-October 2024 – Present<br>
+**October 2024 – Present** <br>
 Self-Study Listed under Education.<br>
 
-Senior Software Developer, Almac Group Clinical Technologies (February 2023 - September 2024)<br>
+**Senior Software Developer, Almac Group Clinical Technologies (February 2023 - September 2024)** <br>
 •	Provided tiered level production support and maintenance for existing applications using C# / ASP.NET MVC.<br>
 •	Investigated client issues and provided communication and support to resolve them.<br>
 •	Worked on SQL data-heavy tasks, including writing scripts to resolve data errors and reading through ServiceBus queues.<br>
 •	Conducted technical demonstrations and communicated how our solutions could solve customer problems, aligning with the Solutions Architect role's requirements.<br>
-Software Developer, ChameleonTech - McDermott Group (August 2022 – February 2023)
-•	Worked on backend C# .NET Framework APIs using Entity Framework within an Agile team.
-•	Developed solutions to set up local dev environments and built Azure functions to run stored procedures.
-•	Developed and maintained customer relationships, ensuring successful delivery of solutions and positive customer experiences.
-Full Stack Developer, Codifi as part of Return on Investment (June 2021 – August 2022)
-•	Designed APIs for single-page applications for major car manufacturers.
-•	Worked on RESTful API backends and databases within an Agile team.
-•	Analyzed client requirements and proposed tailored solutions architecture, workflows, and deliverables.
-.NET Core Developer
-Aeon GS (March 2021 - May 2021)
-•	Transferred an Oil and Gas single-page data application from Ruby and React API to .NET Core and React.
-•	Designed the app layout for presentation to partners, set up Azure DevOps projects with TFS, and added work tickets and turndown charts.
-•	Highlighted unit testing of the application.
-Software Engineer
-I-Design Ltd (August 2019 – February 2021)
-•	Worked on client applications for ATM hardware systems as part of the COE global support team.
-•	Developed new applications for client record maintenance and debugged software issues on ATM hardware.
-•	Updated legacy .NET Core audit software using SOLID principles and Git.
-Junior Full Stack Developer
-The Care Inspectorate (April 2018 – June 2019)
-•	Built new applications to meet business requirements on the NHS Education for Scotland (NES) platform.
-•	Worked with ASP.NET MVC applications and backend API Entity Framework apps.
+
+**Software Developer, ChameleonTech - McDermott Group (August 2022 – February 2023)**<br>
+•	Worked on backend C# .NET Framework APIs using Entity Framework within an Agile team.<br>
+•	Developed solutions to set up local dev environments and built Azure functions to run stored procedures.<br>
+•	Developed and maintained customer relationships, ensuring successful delivery of solutions and positive customer experiences.<br>
+**Full Stack Developer, Codifi as part of Return on Investment (June 2021 – August 2022)**<br>
+•	Designed APIs for single-page applications for major car manufacturers.<br>
+•	Worked on RESTful API backends and databases within an Agile team.<br>
+•	Analyzed client requirements and proposed tailored solutions architecture, workflows, and deliverables.<br>
+
+**.NET Core Developer**<br>
+Aeon GS (March 2021 - May 2021)<br>
+•	Transferred an Oil and Gas single-page data application from Ruby and React API to .NET Core and React.<br>
+•	Designed the app layout for presentation to partners, set up Azure DevOps projects with TFS, and added work tickets and turndown charts.<br>
+•	Highlighted unit testing of the application.<br>
+**Software Engineer**<br>
+I-Design Ltd (August 2019 – February 2021)<br>
+•	Worked on client applications for ATM hardware systems as part of the COE global support team.<br>
+•	Developed new applications for client record maintenance and debugged software issues on ATM hardware.<br>
+•	Updated legacy .NET Core audit software using SOLID principles and Git.<br>
+**Junior Full Stack Developer**<br>
+The Care Inspectorate (April 2018 – June 2019)<br>
+•	Built new applications to meet business requirements on the NHS Education for Scotland (NES) platform.<br>
+•	Worked with ASP.NET MVC applications and backend API Entity Framework apps.<br>
 
 
 ### <a name="interests">Interests</a>
