@@ -1,12 +1,27 @@
 # Gurminder Bhachu
 
-I am an enthusiastic, outgoing and ambitious full stack developer looking forward to starting my career in the tech industry. Excited by technology and computers and enquistive about how they worked from an early age, I decided it was about time I learnt how to code. I started my journey with online codeacademy tutorials before deciding to step it up a notch by applying to one of Europe's leading development bootcamps, Makers Academy.
+Highly skilled and experienced Senior Software Developer and currently studying to become an AWS Certified Solutions Architect Professional with over 6 years of experience in designing, developing, and maintaining software applications. Proficient in multiple programming languages and frameworks, with a strong background in .NET development and cloud computing. Seeking to leverage my extensive development background and cloud computing knowledge to design scalable, secure, and efficient cloud-based solutions. Passionate about driving digital and data transformation projects, particularly within the public sector.
 
 I pride myself on my interpersonal skills which have been honed by working in sales, fitness and training environments, and also my ability to adapt and learn new skills especially when pushed outside my comfort zone.
 
 [Skills](#skills)  |  [Projects](#projects) |  [Education](#education)  |  [Employment](#employment) | [Interests](#interests)
 
 ### <a name="skills">Skills</a>
+•	C# .NET Frameworks with up-to-date coding practices
+•	RESTful API and SQL development and maintenance
+•	Cloud Computing with Azure and AWS
+•	Entity Framework
+•	Debugging and resolving issues
+•	Updating legacy code
+•	Agile methodologies
+•	Full development lifecycle exposure
+•	Solutions architecture
+•	Customer relationship management
+•	Technical demonstrations
+•	Pre and post-sales support
+•	Data science and data engineering
+•	Strategic thinking and problem-solving
+•	Proposal preparation and business development
 
 **Makers Academy**
 
@@ -32,6 +47,8 @@ TakeAwayChallenge                    | [TakeAwayChallenge] (https://github.com/g
 
 ### <a name="education">Education</a>
 
+Certified Solutions Architect - Associate (SAA-C03) – Completion date – March ‘25 <br>
+Certified Solutions Architect - Professional (SAP-C02) - Completion date – March ‘25 <br>
 
 **Makers Academy (January - March 2017)**
 - Curiosity and passion for best practices
@@ -42,18 +59,9 @@ TakeAwayChallenge                    | [TakeAwayChallenge] (https://github.com/g
 - RSpec, Jasmine
 - PostgreSQL, Active Record
 
-
 **Univeristy of Abertay (2008)**
 - BSc (Hons) Sports Health & Exercise - 2.1
-
-**Grove Academy High School (2008)**
-Highers
-- Mathematics - A
-- English - A
-- Computing Studies - A
-- Physics - A
-- Modern Studies - A
-
+  
 **Other Qualifications**
 - Makers Academy Remote Graduate (March 2017)
 - PTLLS Level 4 Trainer/Assessor (up to NVQ level 4)
@@ -66,35 +74,37 @@ Highers
 
 ### <a name="employment">Employment</a>
 
-**SME Professionals** <br>
-Software Developer (Internship) <br>
-(June 2017 - Present) <br>
+October 2024 – Present<br>
+Self-Study Listed under Education.<br>
 
+Senior Software Developer, Almac Group Clinical Technologies (February 2023 - September 2024)<br>
+•	Provided tiered level production support and maintenance for existing applications using C# / ASP.NET MVC.<br>
+•	Investigated client issues and provided communication and support to resolve them.<br>
+•	Worked on SQL data-heavy tasks, including writing scripts to resolve data errors and reading through ServiceBus queues.<br>
+•	Conducted technical demonstrations and communicated how our solutions could solve customer problems, aligning with the Solutions Architect role's requirements.<br>
+Software Developer, ChameleonTech - McDermott Group (August 2022 – February 2023)
+•	Worked on backend C# .NET Framework APIs using Entity Framework within an Agile team.
+•	Developed solutions to set up local dev environments and built Azure functions to run stored procedures.
+•	Developed and maintained customer relationships, ensuring successful delivery of solutions and positive customer experiences.
+Full Stack Developer, Codifi as part of Return on Investment (June 2021 – August 2022)
+•	Designed APIs for single-page applications for major car manufacturers.
+•	Worked on RESTful API backends and databases within an Agile team.
+•	Analyzed client requirements and proposed tailored solutions architecture, workflows, and deliverables.
+.NET Core Developer
+Aeon GS (March 2021 - May 2021)
+•	Transferred an Oil and Gas single-page data application from Ruby and React API to .NET Core and React.
+•	Designed the app layout for presentation to partners, set up Azure DevOps projects with TFS, and added work tickets and turndown charts.
+•	Highlighted unit testing of the application.
+Software Engineer
+I-Design Ltd (August 2019 – February 2021)
+•	Worked on client applications for ATM hardware systems as part of the COE global support team.
+•	Developed new applications for client record maintenance and debugged software issues on ATM hardware.
+•	Updated legacy .NET Core audit software using SOLID principles and Git.
+Junior Full Stack Developer
+The Care Inspectorate (April 2018 – June 2019)
+•	Built new applications to meet business requirements on the NHS Education for Scotland (NES) platform.
+•	Worked with ASP.NET MVC applications and backend API Entity Framework apps.
 
-**Remploy Learning Centre** <br>
-Consultant Trainer - Youth training <br>
-(July 2016 - December 2016) <br>
-
-**LearnDirect** <br>
-Consultant Trainer - Employability<br>
-(January 2016 - July 2016) <br>
-
-**Triage Central** <br>
-Trainer - Employability for long term unemployed <br>
-September 2015 - January 2016 <br>
-
-**DW Fitness** <br>
-Sales Manager/Personal Trainer <br>
-July 2014 - August 2015 <br>
-
-
-**Fitness Industry Education** <br>
-Trainer Assessor - Personal Training<br>
-February 2010 - July 2014 <br>
-
-**Self Employed Personal Trainer** <br>
-REPs level 4, GP Exercise Referall Specialist PT <br>
-(August 2008 - December 2015) <br>
 
 ### <a name="interests">Interests</a>
 
